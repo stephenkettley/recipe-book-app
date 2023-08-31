@@ -9,6 +9,11 @@ header {
     color: white;
     padding: 20px;
     text-align: center;
+    transition: all 0.2s ease;
+}
+
+header:hover {
+    background-color: rgb(222, 60, 87);
 }
 
 h1 {
